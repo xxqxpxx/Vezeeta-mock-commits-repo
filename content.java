@@ -147,6 +147,5 @@ public class Crggga {
         System.out.println("evove");
         System.out.println("sjgir");
         System.out.println("kpwhj");
-        System.out.println("yaqek");
     }
 }
