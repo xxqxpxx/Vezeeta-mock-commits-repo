@@ -176,6 +176,6 @@ public class Crggga {
         System.out.println("tbuaq");
         System.out.println("jaggm");
         System.out.println("nguyi");
-        System.out.println("deuin");
+        System.out.println("tsmwo");
     }
 }
