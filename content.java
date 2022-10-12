@@ -193,6 +193,5 @@ public class Crggga {
         System.out.println("wmkgb");
         System.out.println("ytkwu");
         System.out.println("kocfd");
-        System.out.println("mwchp");
     }
 }
